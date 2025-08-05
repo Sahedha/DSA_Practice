@@ -26,9 +26,7 @@ Edit
 **Output:**  
 34
 
-yaml
-Copy
-Edit
+
 **Explanation:**  
 The largest element is `35`, and the second largest is `34`.
 
@@ -38,15 +36,9 @@ The largest element is `35`, and the second largest is `34`.
 **Input:**  
 arr[] = [10, 5, 10]
 
-makefile
-Copy
-Edit
 **Output:**  
 5
 
-markdown
-Copy
-Edit
 **Explanation:**  
 The largest element is `10`, and the second largest is `5`.
 
