@@ -86,6 +86,8 @@ class Solution {
         return secondLarg;
     }
 }
+
+
 Time Complexity
 O(n) → We traverse the array once.
 
